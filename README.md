@@ -16,6 +16,9 @@ This Python program generates random Sudoku puzzles and allows users to solve th
 3. Input `0` to exit the game.
 4. If the user fails to solve the puzzle after three attempts, the solution is displayed.
 
+AUTHOR:
+LAKAVATH RAGHURAM
+
 ## Files
 
 - `sudoku_solver.py`: Main Python script containing the Sudoku solving logic.
